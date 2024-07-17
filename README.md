@@ -24,7 +24,6 @@ This project involves creating a web page with a form that validates user input 
 
 #### User Validation by Using Database
 
-```markdown
 # User Validation by Using Database
 
 This project involves creating a NodeJS server that stores user details in an SQLite3 database for a fictitious Deakin Chess Club. It includes a login page where users can enter their username and password, which are validated against the database. Responses are provided for both successful and unsuccessful login attempts.
